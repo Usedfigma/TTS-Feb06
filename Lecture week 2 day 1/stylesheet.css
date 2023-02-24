@@ -1,0 +1,11 @@
+p {
+    color: red;
+    text-align: center;
+  }
+  #green-text{
+    color:green;
+  }
+  .blue {
+    text-align: left;
+    color: blue;
+  }
