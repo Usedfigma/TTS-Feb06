@@ -1,0 +1,69 @@
+
+
+	h1 {
+		color: red;
+		font-size: 50px;
+		text-shadow: 2px 2px black;
+		padding: 10px;
+		margin: 5px;
+		text-align: center;
+		font-family: 'Unlock', cursive;
+	}
+	nav{
+		background-color: rgb(166, 7, 7);
+	}
+	ul a {
+		float: left;
+		color: rgb(255, 255, 255);
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+		font-size: 25px;
+	}
+.nav_links li {
+	display: inline-block;
+	padding: 0px 20px;
+	text-shadow: 2px 2px black;
+
+}
+.nav_links li a:hover {
+	color: aliceblue;
+
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+.intro {
+	font-size: 25px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: rgb(0, 0, 0);
+	padding-top: 50px;
+	columns: 100px;
+	column-count: 1;
+}
+.left{
+	float: left;
+	padding: 0 20px 0 20px;
+	width: 500px;
+	height: 700px;
+}
+button{
+	background-color: goldenrod;
+	color: crimson;
+	border-radius: 7px;
+	text-shadow: 2px;
+	font-family: 'Unlock', cursive;
+
+}
+button:hover{
+	color: dimgrey;
+}
+.dropdown-menu{
+	background-color: crimson; 
+}
+.col{
+	font-family: fantasy;
+}
